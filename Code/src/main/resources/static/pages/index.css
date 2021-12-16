@@ -121,8 +121,9 @@ border-left: 2px solid #C2C2C2;
 .banner{
   padding-left: 20px;
   padding-top: 2px;
+  padding-bottom: 20px;
   width: 100%;
-  height: 200px;
+  height: fit-content;
   background-color: rgba(230, 228, 228, 0.3);
 }
 
@@ -178,3 +179,50 @@ h3{
 .post{
   margin:0 auto;
   }
+
+.profile{
+  height: 400px;
+  text-align: center;
+}
+
+.profile img{
+  height: 200px;
+  margin:auto;
+  margin-top: 20px;
+}
+
+h2{
+  font-size: 35px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.profile{
+  height: fit-content;
+  padding-bottom: 20px;
+}
+
+.test{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  justify-content: start;
+  text-align: start;
+}
+
+.test p{
+  padding-left: 35px;
+}
+
+.symbol-casket { 
+  position: relative; 
+}
+
+.symbol-casket img { 
+  display: block; 
+}
+
+.symbol-casket .adopt-me { 
+  position: absolute; 
+  padding-left: 40%;
+  height: 60px;
+}
