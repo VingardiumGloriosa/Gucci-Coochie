@@ -17,6 +17,6 @@ public class DataSetUp implements CommandLineRunner {
         /*userRepository.save(new User("Patrik","Alcoholic, Pussyholic, Audioholic","Flintholm"));
         userRepository.save(new User("Chiara","Italian beauty to the bone","Somewhere past Hellerup"));
         userRepository.save(new User("Samuel","fellow slavic brother","Not a clue"));
-        userRepository.save(new User("Gloria","Stoner, Pussyholic, Workaholic","Hvidovre"));*/
+        userRepository.save(new User("Gloria","Stoner, Pussyholic, Workaholic","Outside CPH"));*/
     }
 }
