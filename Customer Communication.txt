@@ -1,0 +1,14 @@
+Customer feedback log (Aisté K.)
+
+On December 15th we had our first customer meeting upon which we delivered them our paper prototype designed by Chiara and website prototype designed by Glória. 
+We had explained the process and plans for further iterations and this is what we recieved as feedback.
+
+As a huge cat lover who is currently searching for the perfect companion, I couldn’t be more excited about ‘Catinder’. 
+After watching the presentation made by Pirates I can’t wait to use the app and website. 
+Currently the task of looking for a cat to adopt is quite daunting because I have to go through millions of different ugly websites. 
+With ‘Catinder’ my search will be much easier, enjoyable, and personal. 
+The only issue I see is that it might be difficult to tell which cats are actually for adoption so I might fall in love with one that already has a home. However, I’m sure the team will be able to come up with something that will fix this small issue.
+customer feedback
+
+Based on this feedback we have implemented a symbol overlay on cats that are available for adoption. This way the customer can simply distinguish between cats and avoid heartache.
+We showed this solution to our customer to which she is currently satisfied with the product.
